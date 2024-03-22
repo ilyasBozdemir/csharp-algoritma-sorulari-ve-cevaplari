@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vFIcsAN4qeBMnlc+lH9OZ5SHXqlzY88n0T/gzu+MZKc2sjpln6iWq4SXa/UNagwuMcQY0cAoEKVz8EBZ11qlFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilyas bozdemir\\Desktop\\projects\\my-project\\Algoritma Soruları ve Cevaplari\\Algoritma-Sorulari\\Hafta_3\\Hafta_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilyas bozdemir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ilyas bozdemir\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ilyas bozdemir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ilyas bozdemir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

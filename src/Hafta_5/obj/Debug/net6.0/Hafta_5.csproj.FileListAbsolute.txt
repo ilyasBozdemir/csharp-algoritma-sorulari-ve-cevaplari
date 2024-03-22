@@ -1,0 +1,30 @@
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.csproj.AssemblyReference.cache
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.AssemblyInfoInputs.cache
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.AssemblyInfo.cs
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.csproj.CoreCompileInputs.cache
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\bin\Debug\net6.0\Hafta_5.exe
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\bin\Debug\net6.0\Hafta_5.deps.json
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\bin\Debug\net6.0\Hafta_5.runtimeconfig.json
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\bin\Debug\net6.0\Hafta_5.dll
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\bin\Debug\net6.0\Hafta_5.pdb
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.dll
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\refint\Hafta_5.dll
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.pdb
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.genruntimeconfig.cache
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\ref\Hafta_5.dll
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\bin\Debug\net6.0\Hafta_5.exe
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\bin\Debug\net6.0\Hafta_5.deps.json
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\bin\Debug\net6.0\Hafta_5.runtimeconfig.json
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\bin\Debug\net6.0\Hafta_5.dll
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\bin\Debug\net6.0\Hafta_5.pdb
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.AssemblyInfoInputs.cache
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.AssemblyInfo.cs
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.csproj.CoreCompileInputs.cache
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.sourcelink.json
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.dll
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\refint\Hafta_5.dll
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.pdb
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\Hafta_5.genruntimeconfig.cache
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Hafta_5\obj\Debug\net6.0\ref\Hafta_5.dll

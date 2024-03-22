@@ -1,0 +1,30 @@
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\bin\Debug\net6.0\Diziler_1.exe
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\bin\Debug\net6.0\Diziler_1.deps.json
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\bin\Debug\net6.0\Diziler_1.runtimeconfig.json
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\bin\Debug\net6.0\Diziler_1.dll
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\bin\Debug\net6.0\Diziler_1.pdb
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.csproj.AssemblyReference.cache
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.AssemblyInfoInputs.cache
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.AssemblyInfo.cs
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.csproj.CoreCompileInputs.cache
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.dll
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\refint\Diziler_1.dll
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.pdb
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.genruntimeconfig.cache
+D:\GitHub\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\ref\Diziler_1.dll
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\bin\Debug\net6.0\Diziler_1.exe
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\bin\Debug\net6.0\Diziler_1.deps.json
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\bin\Debug\net6.0\Diziler_1.runtimeconfig.json
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\bin\Debug\net6.0\Diziler_1.dll
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\bin\Debug\net6.0\Diziler_1.pdb
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.AssemblyInfoInputs.cache
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.AssemblyInfo.cs
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.csproj.CoreCompileInputs.cache
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.sourcelink.json
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.dll
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\refint\Diziler_1.dll
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.pdb
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\Diziler_1.genruntimeconfig.cache
+C:\Users\ilyas bozdemir\Desktop\projects\my-project\Algoritma Soruları ve Cevaplari\Algoritma-Sorulari\Diziler_1\obj\Debug\net6.0\ref\Diziler_1.dll
