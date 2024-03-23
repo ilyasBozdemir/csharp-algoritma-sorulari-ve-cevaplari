@@ -3,7 +3,7 @@
 1. Klavyeden girilen `a` ve `b` değişkenlerinin çarpımını `c` değişkenine ata.
 
 2. Aşağıdaki yönergeleri `Math` sınıfının metotlarını kullanarak C# Console programı ile yazınız:
-  - a. Klavyeden girilen sayının karesini alınız.
+ #### - a. Klavyeden girilen sayının karesini alınız.
   - b. Klavyeden girilen sayının küpünü alınız.
   - c. Klavyeden girilen sayının karekökünü alınız.
   - d. Klavyeden girilen sayının mutlak değerini alınız.

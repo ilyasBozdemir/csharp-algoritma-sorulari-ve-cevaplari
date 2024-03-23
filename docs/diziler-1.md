@@ -1,9 +1,9 @@
 1. 10 elemanlı bir dizi tanımlayınız.
-- a.Diziye klavyeden pozitif ve negatif değerler içeren değerler giriniz.
-- b.Tanımlanan dizisi içerisindeki sayıların toplamını veren kodları yazınız.
-- c.Tanımlanan sayılar dizisi içerisindeki çift sayıları ekrana yazdıran kodları yazınız.
-- d.Tanımlanan sayılar dizisi içerisindeki pozitif tek sayıları ekrana yazdıran kodları yazınız.
-- e.Tanımlanan sayılar dizisi içerisindeki sayıların negatif, pozitif ve işaretsiz olma durumlarını yanına yazdıran kodları yazınız.
+- a. Diziye klavyeden pozitif ve negatif değerler içeren değerler giriniz.
+- b. Tanımlanan dizisi içerisindeki sayıların toplamını veren kodları yazınız.
+- c. Tanımlanan sayılar dizisi içerisindeki çift sayıları ekrana yazdıran kodları yazınız.
+- d. Tanımlanan sayılar dizisi içerisindeki pozitif tek sayıları ekrana yazdıran kodları yazınız.
+- e. Tanımlanan sayılar dizisi içerisindeki sayıların negatif, pozitif ve işaretsiz olma durumlarını yanına yazdıran kodları yazınız.
 
 2. 0 ile 50 arasındaki sayılardan 5′e tam olarak bölünenleri diziye aktaran programı yazınız.
 3. Kullanıcı tarafından girilen index numarasına göre gün adını bulan kodları yazınız.
